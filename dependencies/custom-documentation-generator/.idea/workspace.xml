@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5625b997-213f-470b-8ded-061f0d611c16" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../../Kargono/Kargono.vcxproj" beforeDir="false" afterPath="$PROJECT_DIR$/../../Kargono/Kargono.vcxproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kargono/Kargono.vcxproj.filters" beforeDir="false" afterPath="$PROJECT_DIR$/../../Kargono/Kargono.vcxproj.filters" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kargono/Kargono/Application.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../Kargono/Kargono/Application.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kargono/Kargono/Application.h" beforeDir="false" afterPath="$PROJECT_DIR$/../../Kargono/Kargono/Application.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sandbox2D/imgui.ini" beforeDir="false" afterPath="$PROJECT_DIR$/../../Sandbox2D/imgui.ini" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../bin-int/Debug-windows-x86_64/Kargono/Application.obj" beforeDir="false" afterPath="$PROJECT_DIR$/../../bin-int/Debug-windows-x86_64/Kargono/Application.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../bin-int/Debug-windows-x86_64/Kargono/Kargono.tlog/CL.command.1.tlog" beforeDir="false" afterPath="$PROJECT_DIR$/../../bin-int/Debug-windows-x86_64/Kargono/Kargono.tlog/CL.command.1.tlog" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../bin-int/Debug-windows-x86_64/Kargono/Kargono.tlog/CL.read.1.tlog" beforeDir="false" afterPath="$PROJECT_DIR$/../../bin-int/Debug-windows-x86_64/Kargono/Kargono.tlog/CL.read.1.tlog" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../bin-int/Debug-windows-x86_64/Kargono/Kargono.tlog/CL.write.1.tlog" beforeDir="false" afterPath="$PROJECT_DIR$/../../bin-int/Debug-windows-x86_64/Kargono/Kargono.tlog/CL.write.1.tlog" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../bin-int/Debug-windows-x86_64/Kargono/Kargono.tlog/Cl.items.tlog" beforeDir="false" afterPath="$PROJECT_DIR$/../../bin-int/Debug-windows-x86_64/Kargono/Kargono.tlog/Cl.items.tlog" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../bin-int/Debug-windows-x86_64/Kargono/Log.obj" beforeDir="false" afterPath="$PROJECT_DIR$/../../bin-int/Debug-windows-x86_64/Kargono/Log.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../bin-int/Debug-windows-x86_64/Kargono/kgpch.obj" beforeDir="false" afterPath="$PROJECT_DIR$/../../bin-int/Debug-windows-x86_64/Kargono/kgpch.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/directories/Kargono-cache-dir/Kargono.h" beforeDir="false" afterPath="$PROJECT_DIR$/directories/Kargono-cache-dir/Kargono.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/directories/Kargono-cache-dir/Kargono/Application.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/directories/Kargono-cache-dir/Kargono/Application.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/directories/Kargono-cache-dir/Kargono/Application.h" beforeDir="false" afterPath="$PROJECT_DIR$/directories/Kargono-cache-dir/Kargono/Application.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/directories/Kargono-cache-dir/Kargono/Core.h" beforeDir="false" afterPath="$PROJECT_DIR$/directories/Kargono-cache-dir/Kargono/Core.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/directories/Kargono-cache-dir/Kargono/Events/Event.h" beforeDir="false" afterPath="$PROJECT_DIR$/directories/Kargono-cache-dir/Kargono/Events/Event.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/directories/Kargono-cache-dir/Kargono/Events/KeyEvent.h" beforeDir="false" afterPath="$PROJECT_DIR$/directories/Kargono-cache-dir/Kargono/Events/KeyEvent.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/directories/Kargono-cache-dir/Kargono/Events/MouseEvent.h" beforeDir="false" afterPath="$PROJECT_DIR$/directories/Kargono-cache-dir/Kargono/Events/MouseEvent.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/directories/Kargono-cache-dir/Kargono/ImGui/ImGuiLayer.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/directories/Kargono-cache-dir/Kargono/ImGui/ImGuiLayer.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/directories/Kargono-cache-dir/Kargono/ImGui/ImGuiLayer.h" beforeDir="false" afterPath="$PROJECT_DIR$/directories/Kargono-cache-dir/Kargono/ImGui/ImGuiLayer.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/directories/Kargono-cache-dir/Kargono/Layer.h" beforeDir="false" afterPath="$PROJECT_DIR$/directories/Kargono-cache-dir/Kargono/Layer.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/directories/Kargono-cache-dir/Kargono/LayerStack.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/directories/Kargono-cache-dir/Kargono/LayerStack.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/directories/Kargono-cache-dir/Kargono/LayerStack.h" beforeDir="false" afterPath="$PROJECT_DIR$/directories/Kargono-cache-dir/Kargono/LayerStack.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/directories/Kargono-cache-dir/Kargono/Window.h" beforeDir="false" afterPath="$PROJECT_DIR$/directories/Kargono-cache-dir/Kargono/Window.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/directories/Kargono-cache-dir/Kargono/kgpch.h" beforeDir="false" afterPath="$PROJECT_DIR$/directories/Kargono-cache-dir/Kargono/kgpch.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/directories/Kargono-cache-dir/Platform/Windows/WindowsWindow.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/directories/Kargono-cache-dir/Platform/Windows/WindowsWindow.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/directories/Kargono-cache-dir/Platform/Windows/WindowsWindow.h" beforeDir="false" afterPath="$PROJECT_DIR$/directories/Kargono-cache-dir/Platform/Windows/WindowsWindow.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/directories/Kargono-output-dir/Kargono.h" beforeDir="false" afterPath="$PROJECT_DIR$/directories/Kargono-output-dir/Kargono.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/directories/Kargono-output-dir/Kargono/Application.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/directories/Kargono-output-dir/Kargono/Application.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/directories/Kargono-output-dir/Kargono/Application.h" beforeDir="false" afterPath="$PROJECT_DIR$/directories/Kargono-output-dir/Kargono/Application.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/directories/Kargono-output-dir/Kargono/Core.h" beforeDir="false" afterPath="$PROJECT_DIR$/directories/Kargono-output-dir/Kargono/Core.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/directories/Kargono-output-dir/Kargono/Events/Event.h" beforeDir="false" afterPath="$PROJECT_DIR$/directories/Kargono-output-dir/Kargono/Events/Event.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/directories/Kargono-output-dir/Kargono/Events/KeyEvent.h" beforeDir="false" afterPath="$PROJECT_DIR$/directories/Kargono-output-dir/Kargono/Events/KeyEvent.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/directories/Kargono-output-dir/Kargono/Events/MouseEvent.h" beforeDir="false" afterPath="$PROJECT_DIR$/directories/Kargono-output-dir/Kargono/Events/MouseEvent.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/directories/Kargono-output-dir/Kargono/ImGui/ImGuiLayer.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/directories/Kargono-output-dir/Kargono/ImGui/ImGuiLayer.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/directories/Kargono-output-dir/Kargono/ImGui/ImGuiLayer.h" beforeDir="false" afterPath="$PROJECT_DIR$/directories/Kargono-output-dir/Kargono/ImGui/ImGuiLayer.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/directories/Kargono-output-dir/Kargono/Layer.h" beforeDir="false" afterPath="$PROJECT_DIR$/directories/Kargono-output-dir/Kargono/Layer.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/directories/Kargono-output-dir/Kargono/LayerStack.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/directories/Kargono-output-dir/Kargono/LayerStack.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/directories/Kargono-output-dir/Kargono/LayerStack.h" beforeDir="false" afterPath="$PROJECT_DIR$/directories/Kargono-output-dir/Kargono/LayerStack.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/directories/Kargono-output-dir/Kargono/Window.h" beforeDir="false" afterPath="$PROJECT_DIR$/directories/Kargono-output-dir/Kargono/Window.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/directories/Kargono-output-dir/Kargono/kgpch.h" beforeDir="false" afterPath="$PROJECT_DIR$/directories/Kargono-output-dir/Kargono/kgpch.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/directories/Kargono-output-dir/Platform/Windows/WindowsWindow.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/directories/Kargono-output-dir/Platform/Windows/WindowsWindow.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/directories/Kargono-output-dir/Platform/Windows/WindowsWindow.h" beforeDir="false" afterPath="$PROJECT_DIR$/directories/Kargono-output-dir/Platform/Windows/WindowsWindow.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/directories/Kargono-working-dir/Kargono.h" beforeDir="false" afterPath="$PROJECT_DIR$/directories/Kargono-working-dir/Kargono.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/directories/Kargono-working-dir/Kargono.vcxproj" beforeDir="false" afterPath="$PROJECT_DIR$/directories/Kargono-working-dir/Kargono.vcxproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/directories/Kargono-working-dir/Kargono.vcxproj.filters" beforeDir="false" afterPath="$PROJECT_DIR$/directories/Kargono-working-dir/Kargono.vcxproj.filters" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/directories/Kargono-working-dir/Kargono/Application.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/directories/Kargono-working-dir/Kargono/Application.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/directories/Kargono-working-dir/Kargono/Application.h" beforeDir="false" afterPath="$PROJECT_DIR$/directories/Kargono-working-dir/Kargono/Application.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/directories/Kargono-working-dir/Kargono/Core.h" beforeDir="false" afterPath="$PROJECT_DIR$/directories/Kargono-working-dir/Kargono/Core.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/directories/Kargono-working-dir/Kargono/Events/Event.h" beforeDir="false" afterPath="$PROJECT_DIR$/directories/Kargono-working-dir/Kargono/Events/Event.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/directories/Kargono-working-dir/Kargono/Events/KeyEvent.h" beforeDir="false" afterPath="$PROJECT_DIR$/directories/Kargono-working-dir/Kargono/Events/KeyEvent.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/directories/Kargono-working-dir/Kargono/Events/MouseEvent.h" beforeDir="false" afterPath="$PROJECT_DIR$/directories/Kargono-working-dir/Kargono/Events/MouseEvent.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/directories/Kargono-working-dir/Kargono/ImGui/ImGuiLayer.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/directories/Kargono-working-dir/Kargono/ImGui/ImGuiLayer.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/directories/Kargono-working-dir/Kargono/ImGui/ImGuiLayer.h" beforeDir="false" afterPath="$PROJECT_DIR$/directories/Kargono-working-dir/Kargono/ImGui/ImGuiLayer.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/directories/Kargono-working-dir/Kargono/Layer.h" beforeDir="false" afterPath="$PROJECT_DIR$/directories/Kargono-working-dir/Kargono/Layer.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/directories/Kargono-working-dir/Kargono/LayerStack.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/directories/Kargono-working-dir/Kargono/LayerStack.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/directories/Kargono-working-dir/Kargono/LayerStack.h" beforeDir="false" afterPath="$PROJECT_DIR$/directories/Kargono-working-dir/Kargono/LayerStack.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/directories/Kargono-working-dir/Kargono/Window.h" beforeDir="false" afterPath="$PROJECT_DIR$/directories/Kargono-working-dir/Kargono/Window.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/directories/Kargono-working-dir/Kargono/kgpch.h" beforeDir="false" afterPath="$PROJECT_DIR$/directories/Kargono-working-dir/Kargono/kgpch.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/directories/Kargono-working-dir/Platform/OpenGL/imgui_impl_opengl3.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/directories/Kargono-working-dir/Platform/OpenGL/imgui_impl_opengl3.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/directories/Kargono-working-dir/Platform/Windows/WindowsWindow.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/directories/Kargono-working-dir/Platform/Windows/WindowsWindow.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/directories/Kargono-working-dir/Platform/Windows/WindowsWindow.h" beforeDir="false" afterPath="$PROJECT_DIR$/directories/Kargono-working-dir/Platform/Windows/WindowsWindow.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/driver.py" beforeDir="false" afterPath="$PROJECT_DIR$/driver.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2SAEbUIh9jU3FsULPfvhImtWjKD" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;F:/Charles_Files/Personal Projects/Personal Games/dependencies/custom-documentation-generator&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Charles's PC\Desktop\OpenAI\Python\directories" />
+      <recent name="C:\Users\Charles's PC\Desktop\OpenAI\Python" />
+      <recent name="C:\Users\Charles's PC\Desktop\OpenAI\Python\directories\sample" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Charles's PC\Desktop\OpenAI\Python\directories\sample" />
+      <recent name="C:\Users\Charles's PC\Desktop\OpenAI\Python" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5625b997-213f-470b-8ded-061f0d611c16" name="Changes" comment="" />
+      <created>1688581056841</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1688581056841</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
