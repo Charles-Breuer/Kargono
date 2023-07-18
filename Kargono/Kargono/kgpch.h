@@ -21,8 +21,3 @@
 #include <fstream>
 
 
-#ifdef KG_PLATFORM_WINDOWS
-	#include <Windows.h>
-#endif
-
-
