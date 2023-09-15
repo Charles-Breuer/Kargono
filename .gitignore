@@ -363,3 +363,35 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+/dependencies/premake/Premake.vcxproj
+/dependencies/premake/Premake.vcxproj.filters
+/Kargono/dependencies
+/Kargono/dependencies/Box2D
+/Kargono/dependencies/Box2D/Box2D.vcxproj
+/Kargono/dependencies/Box2D/Box2D.vcxproj.filters
+/Kargono/dependencies/mono/include/mono/cil
+/Kargono/dependencies/mono/include/mono/cil/opcode.def
+/Kargono/dependencies/yaml-cpp
+/Kargono/dependencies/yaml-cpp/yaml-cpp.vcxproj
+/Kargono/dependencies/yaml-cpp/yaml-cpp.vcxproj.filters
+/Kargono-Editor
+/Kargono-Editor/Kargono-Editor.vcxproj
+/Kargono-Editor/Kargono-Editor.vcxproj.filters
+/Kargono-Editor/resources/Scripts
+/Kargono-Editor/resources/Scripts/Intermediates/Dist
+/Kargono-Editor/resources/Scripts/Intermediates/Dist/.NETFramework,Version=v4.7.2.AssemblyAttributes.cs
+/Kargono-Editor/resources/Scripts/Intermediates/Dist/Kargono-ScriptCore.csproj.FileListAbsolute.txt
+/Kargono-Editor/resources/Scripts/Intermediates/Dist/Kargono-ScriptCore.dll
+/Kargono-Editor/resources/Scripts/Kargono-ScriptCore.dll
+/Kargono-Editor/SandboxProject/Assets/Scripts
+/Kargono-Editor/SandboxProject/Assets/Scripts/Binaries
+/Kargono-Editor/SandboxProject/Assets/Scripts/Binaries/Sandbox.dll
+/Kargono-Editor/SandboxProject/Assets/Scripts/Sandbox.csproj
+/Kargono-Editor/SandboxProject/Assets/Scripts/Sandbox.sln
+/Kargono-Projects/Facerun/Assets/Scripts
+/Kargono-Projects/Facerun/Assets/Scripts/Facerun.csproj
+/Kargono-Projects/Facerun/Assets/Scripts/Facerun.sln
+/Kargono-ScriptCore
+/Kargono-ScriptCore/Kargono-ScriptCore.csproj
+/Sandbox
+/Sandbox/Sandbox.vcxproj
